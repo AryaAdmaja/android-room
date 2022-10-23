@@ -18,12 +18,12 @@ NIM : 2041720104
 
 - Main Activity 
 
-![Hasil Praktikum](screenshots/screenshot_1.png)
+![Hasil Praktikum](screenshots/SS1.jpg)
 
 - NewWord Activity
 
-![Hasil Praktikum](screenshots/screenshot_2.png)
+![Hasil Praktikum](screenshots/SS2.jpg)
 
 - Hasil ketika berhasil tambah data
 
-![Hasil Praktikum](screenshots/screenshot_3.png)
+![Hasil Praktikum](screenshots/SS3.jpg)
